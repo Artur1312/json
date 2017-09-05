@@ -1,0 +1,47 @@
+.container{
+    width: 400px;
+    margin: 0 auto;
+    width: 400px;
+}
+
+.content{
+    padding: 5px;
+    border: 2px solid gray;
+    border-radius: 3px;
+    margin-bottom:10px;
+}
+
+.element{
+    margin-bottom: 10px;
+}
+
+h1{
+    background: #6577ee;
+    color: white;
+    font-family: sans-serif;
+    font-weight: normal;
+    padding: 5px 10px;
+    margin-top: 0;
+}
+
+/* Textbox */
+input[type='text'],input[type='email']{
+    padding: 5px 10px;
+    width: 94%;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+/* Button */
+input[type='button']{
+    background: #fff0ed;
+    color: white;
+    padding: 5px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border: 0;
+}
+
+.details{
+    display: none;
+}
